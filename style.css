@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(106, 30, 177);
+    position: absolute;
+    top: 0;
+    bottom: 2;
+    left: 0;
+    right: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+input[type="number"] {
+    width: 50px;
+  }
+  
+  button {
+    margin-left: 10px;
+  }
+  
+  #result {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  #score {
+    font-weight: bold;
+  }
+  
